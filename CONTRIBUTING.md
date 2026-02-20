@@ -1,7 +1,7 @@
 # Trello board
 Nous avons décidé d'utiliser Trello poru l'organisation ; le panneau est public, et toute demande de droits d'écriture peut être dirigée à Camille, à l'adresse mail [camille.prado@supinfo.com](mailto:camille.prado@supinfo.com)
 
-    [Lien Trello](https://trello.com/invite/b/69981ebedbca169f2fc3ce10/ATTI93eda92611a4fe6b4a0170422a15856eA041F1FC/my-trello-board)
+[Lien Trello](https://trello.com/invite/b/69981ebedbca169f2fc3ce10/ATTI93eda92611a4fe6b4a0170422a15856eA041F1FC/my-trello-board)
 
 # Fonctionnalités à implémenter 
 ## 1 - Connexion

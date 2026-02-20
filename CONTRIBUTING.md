@@ -53,6 +53,12 @@ Nous avons décidé d'utiliser Trello poru l'organisation ; le panneau est publi
 - [ ] Préférences : Thème (Clair/Sombre), langue de l'interface.
 - [ ] Exportation des données personnelles (Liste des œuvres notées au format CSV/JSON - conformité RGPD).
 
+## 10 - Conteneurisation
+- [ ] Docker compose pour :
+    - [ ] Client web
+    - [ ] Serveur
+    - [ ] Base de données
+
 # Rôles clef :
 ## Camille :
 - Gestion du dépôt Github & Trello
